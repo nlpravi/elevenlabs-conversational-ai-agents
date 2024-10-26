@@ -16,8 +16,6 @@ If you enjoy this project and want to support me, consider buying me a coffee or
     <img src="https://img.shields.io/badge/Visit_My_Website-4A90E2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Visit My Website">
   </a>
 </div>
-## Getting Started
-# Start of Selection
 
 ## Prerequisites
 
