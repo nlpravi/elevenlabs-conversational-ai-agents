@@ -158,3 +158,6 @@
 .animate-pulse-slow {
   animation: pulseEffect 2s cubic-bezier(0, 0, 0.2, 1) infinite;
 }
+.bottom-bar, .icons, .footer { 
+  display: none !important; 
+}
