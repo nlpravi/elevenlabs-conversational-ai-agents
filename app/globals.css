@@ -127,15 +127,6 @@
     opacity: 0.3;
   }
 }
-/*
-.pulse-ring {
-  position: absolute;
-  width: 70%;
-  height: 70%;
-  border-radius: 50%;
-  background-color: rgba(235, 94, 40, 0.4);
-  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
-}*/
 
 .animate-glow {
   animation: glow 2s ease-in-out infinite;
