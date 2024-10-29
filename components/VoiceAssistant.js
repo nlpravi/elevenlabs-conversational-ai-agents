@@ -175,14 +175,7 @@ export default function VoiceAssistant() {
               transition={{ duration: 0.3 }}
               className='mt-4 bg-[#403d39] rounded-xl overflow-hidden'
             >
-              /*<div className='flex justify-end p-2'>
-                <button
-                  onClick={() => downloadTranscript(messages)}
-                  className='text-[#ccc5b9] hover:text-[#eb5e28] transition-colors'
-                >
-                  <Download className='w-5 h-5' />
-                </button>
-              </div>*/
+             
               <div
                 ref={scrollAreaRef}
                 className='h-64 overflow-y-auto p-4 space-y-2 scrollbar-thin scrollbar-thumb-[#ccc5b9] scrollbar-track-[#252422]'
